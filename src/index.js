@@ -26,7 +26,6 @@ import vtkVolumeMapper from "@kitware/vtk.js/Rendering/Core/VolumeMapper";
 import vtkPlane from "@kitware/vtk.js/Common/DataModel/Plane";
 const dropdown = document.querySelector("#dropdown--menu");
 
-console.log(dropdown.value);
 
 dropdown.addEventListener("change", function () {
   console.log(this.value);
