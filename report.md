@@ -9,12 +9,12 @@ Results:
 - First Page
 We show the head as the default starter, and able to change iso value using sider
 ![](Screenshot5.png)
-![](Scrennshot6.png)
+![](Screenshot6.png)
 
 - Second  Page
 Using the combo box on the top right, the user is able to change to the chest, and able to using the cropping widget
-![](Scrennshot7.png)
-![](Scrennshot8.png)
+![](Screenshot7.png)
+![](Screenshot8.png)
 
 Problem Faced:
 
